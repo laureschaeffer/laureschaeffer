@@ -6,7 +6,7 @@
 
 🔧 Technologies utilisées : HTML, CSS, JavaScript, PHP, SQL, Programmation Orientée Objet  
 
-🚀 Actuellement en quête de nouvelles opportunités pour mettre mes compétences au service de projets passionnants, je suis toujours prête à relever de nouveaux défis et à apprendre continuellement
+🚀 Portfolio en construction
 
 👯 A la recherche de stage
 
