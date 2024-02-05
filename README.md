@@ -1,6 +1,6 @@
-### Hi there, I'm Laure 👋
+## Hi there, I'm Laure 👋
 
-## 👩‍💻 Développeuse Web Fullstack junior
+### 👩‍💻 Développeuse Web Fullstack junior
 
 🔭 En formation
 
