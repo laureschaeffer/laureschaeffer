@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Laure 👋
 
-<!--
-**laureschaeffer/laureschaeffer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 Développeuse Web Fullstack junior
 
-Here are some ideas to get you started:
+🔭 En formation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Technologies utilisées : HTML, CSS, JavaScript, PHP, SQL, Programmation Orientée Objet  
+
+🚀 Actuellement en quête de nouvelles opportunités pour mettre mes compétences au service de projets passionnants, je suis toujours prête à relever de nouveaux défis et à apprendre continuellement
+
+👯 A la recherche de stage
+
+📫 **Pour me contacter :** https://www.linkedin.com/in/laure-schaeffer-dw/
+
