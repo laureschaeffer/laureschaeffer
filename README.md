@@ -1,3 +1,5 @@
+![Image](banniere.png)
+
 ## Hi there, I'm Laure 👋
 
 ### 👩‍💻 Développeuse Web Fullstack junior
