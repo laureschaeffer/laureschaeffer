@@ -12,8 +12,7 @@
 
 📫 **Pour me contacter :** https://www.linkedin.com/in/laure-schaeffer-dw/
 
-🔧 **Technologies utilisées :** HTML, CSS, JavaScript, PHP, SQL, Programmation Orientée Objet  
-🎓 **Technologies à venir :** Symfony
+🔧 **Technologies utilisées :** HTML, CSS, JavaScript, PHP, SQL, Programmation Orientée Objet, Symfony, twig  
 
 [![My Skills](https://skillicons.dev/icons?i=php,html,css,mysql,javascript,docker,symfony)](https://skillicons.dev)
 
