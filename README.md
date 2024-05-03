@@ -8,11 +8,9 @@
 
 💻Vous retrouverez ici plusieurs projets menés dans le cadre de mes études
 
-👯 A la recherche de stage
+🔧 **Technologies utilisées :** HTML, CSS, JavaScript, PHP, SQL, Programmation Orientée Objet, Symfony, twig
 
-📫 **Pour me contacter :** https://www.linkedin.com/in/laure-schaeffer-dw/
-
-🔧 **Technologies utilisées :** HTML, CSS, JavaScript, PHP, SQL, Programmation Orientée Objet, Symfony, twig  
+🚀 Certification freeCodeCamp Javascript en cours
 
 [![My Skills](https://skillicons.dev/icons?i=php,html,css,mysql,javascript,docker,symfony)](https://skillicons.dev)
 
