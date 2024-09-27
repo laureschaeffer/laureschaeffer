@@ -20,7 +20,7 @@
 
 ![ceremonie couture gif](weddingplanner.gif)
 
-**Pannel admin**
+**Panel admin**
 
 ![ceremonie couture screenshot](wp_ad_1.png)
 ![ceremonie couture screenshot](wp_ad_2.png)
