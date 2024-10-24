@@ -26,15 +26,15 @@
 ![ceremonie couture screenshot](wp_ad_2.png)
 ![ceremonie couture gif](wp_ad_3.gif)
 
-[Cérémonie Couture projet](https://github.com/laureschaeffer/weddingPlanner)
+➡️ [Cérémonie Couture projet](https://github.com/laureschaeffer/weddingPlanner)
 
-<!-- ********************forum******************** -->
-### ✨ Forum  
+<!-- ********************halloween******************** -->
 
-![forum screenshot](forum_1.png)
-![forum screenshot](forum_2.png)
+### ✨ Halloween  
 
-[Forum projet](https://github.com/laureschaeffer/forumPlateau)
+![hallowen gif](halloween.gif)
+
+➡️[Halloween projet](https://github.com/laureschaeffer/halloween)
 
 
 <!-- **********************cinema -->
