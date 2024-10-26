@@ -36,6 +36,12 @@
 
 ➡️[Halloween projet](https://github.com/laureschaeffer/halloween)
 
+ou le deuxième projet halloween
+
+![hallowen gif](halloween2.gif)
+
+➡️[Deuxième halloween projet](https://github.com/laureschaeffer/halloween2)
+
 
 <!-- **********************cinema -->
 ### ✨ Cinéphile  
